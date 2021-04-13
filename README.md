@@ -1,2 +1,2 @@
 # Github-Tutorial
-Github personal tutorial/ practice
+Hey, this is just for tutorial purporses.
